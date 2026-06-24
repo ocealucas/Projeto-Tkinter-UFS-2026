@@ -174,7 +174,7 @@ def atualizar_estado_fill(*args):
 
 # ── MAIN ───────────────────────────────────────────────────────────────────────
 janela = Tk()
-janela.title('Linhas & Rabiscos v1.0 ALPHA')
+janela.title('Linhas & Rabiscos v1.1 ALPHA')
 janela.config(bg='#e8e8e8')
 janela.resizable(False, False)
 
